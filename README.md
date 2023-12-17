@@ -29,9 +29,3 @@ This game requires Python 3. If you don't have Python installed, you can downloa
 ## 🤝 Contributions
 
 Contributions are welcome! Please make a pull request if you have any improvements or fixes.
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
-Ready to dive in? Let's get started! 🎉# Sudoku
